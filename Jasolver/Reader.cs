@@ -4,8 +4,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
-using System.Web.Helpers;
-using System.Web.Script.Serialization;
 
 namespace Jasolver
 {
